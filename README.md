@@ -1,3 +1,3 @@
 "# study_python" 
 
-study start!
+first mission complete
