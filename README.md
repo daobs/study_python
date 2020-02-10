@@ -1,3 +1,3 @@
 "# study_python" 
 
-study start
+study start!
